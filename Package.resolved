@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "FiberKit",
+        "repositoryURL": "https://github.com/omochi/FiberKit",
+        "state": {
+          "branch": "master",
+          "revision": "7b22525934c51fae494cc9f1367d3ae24e9c8b07",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
